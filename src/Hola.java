@@ -11,4 +11,8 @@ public class Hola {
 	public int Golpe(){
 		return 2;
 	}
+	
+	public int Curar(){
+		return 3;
+	}
 }
