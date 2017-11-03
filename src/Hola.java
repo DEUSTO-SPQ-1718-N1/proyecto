@@ -12,6 +12,6 @@ public class Hola {
 		return 2;
 	}
 	public void consola(){
-		System.out.println("efvmefvnefvnegneg");
+		System.out.println("JC");
 	}
 }
