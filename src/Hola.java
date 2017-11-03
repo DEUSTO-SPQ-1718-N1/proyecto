@@ -11,4 +11,7 @@ public class Hola {
 	public int Golpe(){
 		return 2;
 	}
+	public void consola(){
+		System.out.println("efvmefvnefvnegneg");
+	}
 }
